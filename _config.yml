@@ -1,0 +1,16 @@
+
+title: Jane Zhang
+email: jane.zhang423@hotmail.com
+description: >-
+  Tech Communicator | AI Policy Analyst | Former Bloomberg Reporter
+baseurl: "" 
+url: "https://janezhangai.github.io"
+theme: minima
+
+# Navigation links
+minima:
+  social_links:
+    linkedin: janezhang1994
+    email: jane.zhang423@hotmail.com
+
+markdown: kramdown
