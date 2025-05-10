@@ -1,6 +1,6 @@
 
 ---
-title: Welcome
+Welcome
 ---
 
 # 👋 Hi, I’m Jane Zhang
